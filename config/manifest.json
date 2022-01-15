@@ -1,6 +1,6 @@
 {
-  "name": "Mobile App Name",
-  "short_name": "Mobile App Name",
+  "name": "DegdegExchange",
+  "short_name": "DegdegExchange",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "/",
